@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kV4StQwvzDM1yt2d195y5CCPLa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604402293593" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sailing-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2765461" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shanjupay.transaction.service" />
+      <recent name="com.shanjupay.transaction.api" />
+      <recent name="com.shanjupay.merchant.api.dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shanjupay.transaction.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12345678\Desktop\MecuriusWorkSpace\laptop\shanjupay\shanjupay-merchant\shanjupay-merchant-service\src\main\java\com\shanjupay\merchant\convert" />
+      <recent name="C:\Users\12345678\Desktop\MecuriusWorkSpace\laptop\shanjupay\shanjupay-transaction\shanjupay-transaction-service\src\main\java\com\shanjupay\transaction\common\util" />
+      <recent name="C:\Users\12345678\Desktop\MecuriusWorkSpace\laptop\shanjupay\shanjupay-common\src\main\java\com\shanjupay\common\util" />
+      <recent name="C:\Users\12345678\Desktop\MecuriusWorkSpace\laptop\shanjupay\shanjupay-transaction\shanjupay-transaction-service\src\main\resources" />
+      <recent name="C:\Users\12345678\Desktop\MecuriusWorkSpace\laptop\shanjupay\shanjupay-merchant\shanjupay-merchant-api\src\main\java\com\shanjupay\merchant\api\dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PhoneUtil">
+    <configuration name="PhoneUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.common.util.PhoneUtil" />
+      <module name="shanjupay-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformPayChannelTest.selectPayChannelByPlatformChannelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-transaction-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transaction" />
+      <option name="MAIN_CLASS_NAME" value="transaction.PlatformPayChannelTest" />
+      <option name="METHOD_NAME" value="selectPayChannelByPlatformChannelTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.gateway.GatewayBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantApplicationBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-transaction-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.transaction.TransactionBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UAABootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-uaa-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.uaa.UAABootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.user.UserBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PlatformPayChannelTest.selectPayChannelByPlatformChannelTest" />
+      <item itemvalue="Spring Boot.GatewayBootstrap" />
+      <item itemvalue="Spring Boot.MerchantApplicationBootstrap" />
+      <item itemvalue="Spring Boot.MerchantBootstrap" />
+      <item itemvalue="Spring Boot.TransactionBootstrap" />
+      <item itemvalue="Spring Boot.UserBootstrap" />
+      <item itemvalue="Spring Boot.UAABootstrap" />
+      <item itemvalue="Application.PhoneUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MerchantBootstrap" />
+        <item itemvalue="Spring Boot.MerchantApplicationBootstrap" />
+        <item itemvalue="Application.PhoneUtil" />
+        <item itemvalue="Spring Boot.TransactionBootstrap" />
+        <item itemvalue="JUnit.PlatformPayChannelTest.selectPayChannelByPlatformChannelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+      <created>1571122367193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571122367193</updated>
+      <workItem from="1571122368559" duration="2074000" />
+      <workItem from="1571187766500" duration="1006000" />
+      <workItem from="1574317695353" duration="577000" />
+      <workItem from="1574318311412" duration="682000" />
+      <workItem from="1574404354823" duration="998000" />
+      <workItem from="1597212576457" duration="18483000" />
+      <workItem from="1597293222051" duration="10724000" />
+      <workItem from="1603520641892" duration="6999000" />
+      <workItem from="1605772431250" duration="140000" />
+      <workItem from="1605772590674" duration="8172000" />
+      <workItem from="1606095920644" duration="45558000" />
+      <workItem from="1606456048157" duration="15953000" />
+      <workItem from="1607144725784" duration="18417000" />
+      <workItem from="1607495032037" duration="3808000" />
+      <workItem from="1607663275928" duration="20054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
