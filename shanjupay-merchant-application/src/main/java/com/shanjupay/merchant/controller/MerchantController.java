@@ -43,6 +43,18 @@ public class MerchantController extends BasicController{
         return merchantDTO;
     }
 
+    /**
+     * 获取登录用户的商户信息
+     * @return
+     */
+    @ApiOperation("获取登录用户的商户信息")
+    @GetMapping("/my/merchants")
+    public MerchantDTO getMyMerchantInfo (@RequestParam("tenantId")Long tenantId){
+//        //从token中获取商户id
+//        Long merchantId=getLoginMerchantId();
+        return merchantService.queryMerchantById(tenantId);
+    }
+
 
     /**
      * 获取手机验证码
@@ -82,7 +94,7 @@ public class MerchantController extends BasicController{
 
 
         //校验验证码
-        smsService.checkVerifyCode(merchantRegisterVO.getVerifyCode(),merchantRegisterVO.getVerifykey());
+        smsService.checkVerifyCode(merchantRegisterVO.getVerifiyCode(),merchantRegisterVO.getVerifiykey());
         MerchantDTO merchantDTO=new MerchantDTO();
 //        //向dto写入商户注册信息
 //        merchantDTO.setMobile(merchantRegisterVO.getMobile());

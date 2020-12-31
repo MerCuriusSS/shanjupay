@@ -52,4 +52,10 @@ public interface MerchantService {
      */
     void bindStaffToStore(Long storeId,Long staffId) throws BusinessException;
 
+    /**
+     * 根据租户id查询商户信息
+     * @param tenantId
+     * @return
+     */
+    MerchantDTO queryMerchantByTenantId(Long tenantId);
 }

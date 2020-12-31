@@ -22,8 +22,8 @@ public class MerchantRegisterVO implements Serializable {
     @ApiModelProperty("商户密码")
     private String password;
     @ApiModelProperty("验证码key")
-    private String verifykey;
+    private String verifiykey;
     @ApiModelProperty("验证码")
-    private String verifyCode;
+    private String verifiyCode;
 
 }

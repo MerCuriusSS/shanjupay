@@ -1,0 +1,7 @@
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,969 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:241] - List of Servers for merchant-application obtained from Discovery client: [192.168.0.104:57010]
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,969 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for merchant-application obtained from Discovery client: [192.168.0.104:57010]
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,969 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [merchant-application]: clearing server list (SET op)
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,969 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:507] - LoadBalancer [merchant-application]:  addServer [192.168.0.104:57010]
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,970 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.0.104:57010]}
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,970 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [merchant-application_unknown]: clearing server list (SET op)
+[${project.name}][${env:SERVER_PORT}] 2020-12-23 11:00:28,972 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:507] - LoadBalancer [merchant-application_unknown]:  addServer [192.168.0.104:57010]

@@ -49,10 +49,8 @@ public class MerchantServiceImpl implements MerchantService {
     @Override
     public MerchantDTO queryMerchantById(Long id) {
         Merchant merchant=merchantMapper.selectById(id);
-        MerchantDTO merchantDTO=new MerchantDTO();
-        merchantDTO.setId(merchant.getId());
-        merchantDTO.setMerchantName(merchant.getMerchantName());
-        return merchantDTO;
+
+        return MerchantConvert.INSTANCE.entity2dto(merchant);
     }
 
     /**
@@ -243,6 +241,12 @@ public class MerchantServiceImpl implements MerchantService {
         storeStaff.setStaffId(staffId);
         storeStaff.setStoreId(storeId);
         storeStaffMapper.insert(storeStaff);
+    }
+
+    @Override
+    public MerchantDTO queryMerchantByTenantId(Long tenantId) {
+        Merchant merchant = merchantMapper.selectOne(new LambdaQueryWrapper<Merchant>().eq(Merchant::getTenantId, tenantId));
+        return MerchantConvert.INSTANCE.entity2dto(merchant);
     }
 
 
